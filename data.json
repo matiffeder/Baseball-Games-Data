@@ -1,0 +1,409 @@
+[{
+    "date": "10/13",
+    "brothersStat": {
+        "Scores": 8,
+        "Hits": 12,
+        "At Bat": 38,
+        "Errors": 0,
+        "Unearned Run": 0
+    },
+    "opponentStat": {
+        "Scores": 4,
+        "Hits": 7,
+        "At Bat": 31,
+        "Errors": 2,
+        "Unearned Run": 3
+    },
+    "satisfaction": 2
+}, {
+    "date": "10/14",
+    "brothersStat": {
+        "Scores": 1,
+        "Hits": 7,
+        "At Bat": 30,
+        "Errors": 1,
+        "Unearned Run": 1
+    },
+    "opponentStat": {
+        "Scores": 5,
+        "Hits": 9,
+        "At Bat": 30,
+        "Errors": 0,
+        "Unearned Run": 0
+    },
+    "satisfaction": 0
+}, {
+    "date": "10/15",
+    "brothersStat": {
+        "Scores": 6,
+        "Hits": 10,
+        "At Bat": 38,
+        "Errors": 0,
+        "Unearned Run": 0
+    },
+    "opponentStat": {
+        "Scores": 3,
+        "Hits": 9,
+        "At Bat": 33,
+        "Errors": 3,
+        "Unearned Run": 1
+    },
+    "satisfaction": 2
+}, {
+    "date": "10/20",
+    "brothersStat": {
+        "Scores": 4,
+        "Hits": 11,
+        "At Bat": 35,
+        "Errors": 0,
+        "Unearned Run": 0
+    },
+    "opponentStat": {
+        "Scores": 6,
+        "Hits": 12,
+        "At Bat": 36,
+        "Errors": 0,
+        "Unearned Run": 0
+    },
+    "satisfaction": 1
+}, {
+    "date": "10/21",
+    "brothersStat": {
+        "Scores": 2,
+        "Hits": 9,
+        "At Bat": 34,
+        "Errors": 0,
+        "Unearned Run": 0
+    },
+    "opponentStat": {
+        "Scores": 1,
+        "Hits": 5,
+        "At Bat": 30,
+        "Errors": 1,
+        "Unearned Run": 0
+    },
+    "satisfaction": 2
+}, {
+    "date": "10/23",
+    "brothersStat": {
+        "Scores": 5,
+        "Hits": 11,
+        "At Bat": 35,
+        "Errors": 1,
+        "Unearned Run": 0
+    },
+    "opponentStat": {
+        "Scores": 2,
+        "Hits": 3,
+        "At Bat": 31,
+        "Errors": 2,
+        "Unearned Run": 3
+    },
+    "satisfaction": 1
+}, {
+    "date": "10/24",
+    "brothersStat": {
+        "Scores": 2,
+        "Hits": 7,
+        "At Bat": 41,
+        "Errors": 0,
+        "Unearned Run": 0
+    },
+    "opponentStat": {
+        "Scores": 2,
+        "Hits": 9,
+        "At Bat": 44,
+        "Errors": 2,
+        "Unearned Run": 0
+    },
+    "satisfaction": 0
+}, {
+    "date": "10/26",
+    "brothersStat": {
+        "Scores": 5,
+        "Hits": 13,
+        "At Bat": 41,
+        "Errors": 2,
+        "Unearned Run": 1
+    },
+    "opponentStat": {
+        "Scores": 7,
+        "Hits": 14,
+        "At Bat": 43,
+        "Errors": 1,
+        "Unearned Run": 0
+    },
+    "satisfaction": 0
+}, {
+    "date": "10/27",
+    "brothersStat": {
+        "Scores": 2,
+        "Hits": 7,
+        "At Bat": 32,
+        "Errors": 1,
+        "Unearned Run": 0
+    },
+    "opponentStat": {
+        "Scores": 4,
+        "Hits": 6,
+        "At Bat": 26,
+        "Errors": 0,
+        "Unearned Run": 0
+    },
+    "satisfaction": 1
+}, {
+    "date": "10/29",
+    "brothersStat": {
+        "Scores": 5,
+        "Hits": 9,
+        "At Bat": 35,
+        "Errors": 1,
+        "Unearned Run": 1
+    },
+    "opponentStat": {
+        "Scores": 2,
+        "Hits": 8,
+        "At Bat": 36,
+        "Errors": 0,
+        "Unearned Run": 0
+    },
+    "satisfaction": 1
+}, {
+    "date": "10/30",
+    "brothersStat": {
+        "Scores": 4,
+        "Hits": 12,
+        "At Bat": 38,
+        "Errors": 3,
+        "Unearned Run": 2
+    },
+    "opponentStat": {
+        "Scores": 6,
+        "Hits": 7,
+        "At Bat": 31,
+        "Errors": 0,
+        "Unearned Run": 0
+    },
+    "satisfaction": 0
+}, {
+    "date": "10/31",
+    "brothersStat": {
+        "Scores": 4,
+        "Hits": 6,
+        "At Bat": 28,
+        "Errors": 0,
+        "Unearned Run": 0
+    },
+    "opponentStat": {
+        "Scores": 2,
+        "Hits": 7,
+        "At Bat": 32,
+        "Errors": 0,
+        "Unearned Run": 0
+    },
+    "satisfaction": 1
+}, {
+    "date": "11/03",
+    "brothersStat": {
+        "Scores": 1,
+        "Hits": 7,
+        "At Bat": 34,
+        "Errors": 0,
+        "Unearned Run": 0
+    },
+    "opponentStat": {
+        "Scores": 5,
+        "Hits": 9,
+        "At Bat": 33,
+        "Errors": 1,
+        "Unearned Run": 0
+    },
+    "satisfaction": 1
+}, {
+    "date": "11/04",
+    "brothersStat": {
+        "Scores": 1,
+        "Hits": 4,
+        "At Bat": 29,
+        "Errors": 0,
+        "Unearned Run": 0
+    },
+    "opponentStat": {
+        "Scores": 6,
+        "Hits": 10,
+        "At Bat": 34,
+        "Errors": 0,
+        "Unearned Run": 0
+    },
+    "satisfaction": 1
+}, {
+    "date": "11/05",
+    "brothersStat": {
+        "Scores": 1,
+        "Hits": 6,
+        "At Bat": 31,
+        "Errors": 0,
+        "Unearned Run": 0
+    },
+    "opponentStat": {
+        "Scores": 3,
+        "Hits": 10,
+        "At Bat": 36,
+        "Errors": 0,
+        "Unearned Run": 0
+    },
+    "satisfaction": 1
+}, {
+    "date": "11/06",
+    "brothersStat": {
+        "Scores": 3,
+        "Hits": 9,
+        "At Bat": 30,
+        "Errors": 0,
+        "Unearned Run": 0
+    },
+    "opponentStat": {
+        "Scores": 7,
+        "Hits": 8,
+        "At Bat": 34,
+        "Errors": 0,
+        "Unearned Run": 0
+    },
+    "satisfaction": 1
+}, {
+    "date": "11/10",
+    "brothersStat": {
+        "Scores": 4,
+        "Hits": 12,
+        "At Bat": 37,
+        "Errors": 0,
+        "Unearned Run": 0
+    },
+    "opponentStat": {
+        "Scores": 2,
+        "Hits": 7,
+        "At Bat": 33,
+        "Errors": 0,
+        "Unearned Run": 0
+    },
+    "satisfaction": 2
+}, {
+    "date": "11/13",
+    "brothersStat": {
+        "Scores": 2,
+        "Hits": 11,
+        "At Bat": 36,
+        "Errors": 1,
+        "Unearned Run": 0
+    },
+    "opponentStat": {
+        "Scores": 5,
+        "Hits": 14,
+        "At Bat": 35,
+        "Errors": 1,
+        "Unearned Run": 0
+    },
+    "satisfaction": 0
+}, {
+    "date": "11/14",
+    "brothersStat": {
+        "Scores": 6,
+        "Hits": 11,
+        "At Bat": 40,
+        "Errors": 0,
+        "Unearned Run": 0
+    },
+    "opponentStat": {
+        "Scores": 3,
+        "Hits": 11,
+        "At Bat": 39,
+        "Errors": 1,
+        "Unearned Run": 1
+    },
+    "satisfaction": 2
+}, {
+    "date": "11/16",
+    "brothersStat": {
+        "Scores": 0,
+        "Hits": 5,
+        "At Bat": 39,
+        "Errors": 1,
+        "Unearned Run": 0
+    },
+    "opponentStat": {
+        "Scores": 1,
+        "Hits": 9,
+        "At Bat": 42,
+        "Errors": 1,
+        "Unearned Run": 0
+    },
+    "satisfaction": 0
+}, {
+    "date": "11/18",
+    "brothersStat": {
+        "Scores": 2,
+        "Hits": 7,
+        "At Bat": 34,
+        "Errors": 3,
+        "Unearned Run": 6
+    },
+    "opponentStat": {
+        "Scores": 11,
+        "Hits": 12,
+        "At Bat": 37,
+        "Errors": 1,
+        "Unearned Run": 0
+    },
+    "satisfaction": 0
+}, {
+    "date": "11/19",
+    "brothersStat": {
+        "Scores": 4,
+        "Hits": 4,
+        "At Bat": 25,
+        "Errors": 0,
+        "Unearned Run": 0
+    },
+    "opponentStat": {
+        "Scores": 2,
+        "Hits": 11,
+        "At Bat": 36,
+        "Errors": 0,
+        "Unearned Run": 0
+    },
+    "satisfaction": 2
+}, {
+    "date": "11/20",
+    "brothersStat": {
+        "Scores": 7,
+        "Hits": 11,
+        "At Bat": 42,
+        "Errors": 2,
+        "Unearned Run": 2
+    },
+    "opponentStat": {
+        "Scores": 6,
+        "Hits": 15,
+        "At Bat": 47,
+        "Errors": 0,
+        "Unearned Run": 0
+    },
+    "satisfaction": 0
+}, {
+    "date": "11/21",
+    "brothersStat": {
+        "Scores": 6,
+        "Hits": 8,
+        "At Bat": 30,
+        "Errors": 1,
+        "Unearned Run": 0
+    },
+    "opponentStat": {
+        "Scores": 4,
+        "Hits": 6,
+        "At Bat": 32,
+        "Errors": 1,
+        "Unearned Run": 1
+    },
+    "satisfaction": 2
+}]
